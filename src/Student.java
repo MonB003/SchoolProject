@@ -1,5 +1,5 @@
 /* Unit 4 School Project Student class
-By: Monica Bacatan
+By: Monica 
  */
 
 public class Student {

@@ -1,5 +1,5 @@
 /* Unit 4 School Project School class
-By: Monica Bacatan
+By: Monica 
  */
 
 import java.util.ArrayList;
